@@ -23,9 +23,19 @@
 ## ✌ ✔ [2. 일차](https://github.com/choikeunyoung/mystory/tree/master/2%20%EC%9D%BC%EC%B0%A8)
 ## ✌ ✔ [3. 일차](https://github.com/choikeunyoung/mystory/tree/master/3%20%EC%9D%BC%EC%B0%A8)
 ## ✌ ✔ [4. 일차](https://github.com/choikeunyoung/mystory/blob/master/4%20%EC%9D%BC%EC%B0%A8/reserch.md)
+## ✌ ✔ [5. 일차](https://github.com/choikeunyoung/mystory/tree/master/5%20%EC%9D%BC%EC%B0%A8)
 
 # ✍✍✍ 주차별 정리 🙄💅
 
 ## ✌ ✔ [1 주차](https://github.com/choikeunyoung/reviews/tree/master/1%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
+
+
+# ✨✨✨ Coding Sites (Algorithm study) ✨✨✨
+  - **[CodeUp](https://codeup.kr/)**
+    - [Python 기초 100제 solution](https://github.com/choikeunyoung/algorithm/tree/master/codeup_100)
+  
+  - **[BackJoon](https://www.acmicpc.net/)**
+
+  - **[Programmers](https://programmers.co.kr/)**
 
 # 💢💥💥 오류 해결 & 모음 💥💥💢
