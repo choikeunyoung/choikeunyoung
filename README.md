@@ -25,6 +25,7 @@
 ## ✌ ✔ [4. 일차](https://github.com/choikeunyoung/mystory/blob/master/4%20%EC%9D%BC%EC%B0%A8/reserch.md)
 ## ✌ ✔ [5. 일차](https://github.com/choikeunyoung/mystory/tree/master/5%20%EC%9D%BC%EC%B0%A8)
 ## ✌ ✔ [6. 일차](https://github.com/choikeunyoung/mystory/tree/master/6%20%EC%9D%BC%EC%B0%A8)
+## ✌ ✔ [7. 일차](https://github.com/choikeunyoung/mystory/tree/master/7%20%EC%9D%BC%EC%B0%A8)
 
 # ✍✍✍ 주차별 정리 🙄💅
 
