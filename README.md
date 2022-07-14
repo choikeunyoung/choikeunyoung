@@ -1,7 +1,8 @@
-# ✌ 안녕하세요!!
+# ✌ 인사말
 
- **처음으로 페이지를 꾸며보는데 아직 무슨말을 써야할지 잘 모르겠네요 그래서 나중에 차차 고쳐나갈려고 합니다~**
+ **하루하루 강의를 들으며 페이지를 꾸며나갈 예정입니다!! 열심히 배우겠습니다✨✨**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikeunyoung&show_icons=true&theme=radical)
 
 
 # 2022년 목표 
@@ -13,7 +14,7 @@
 
 **3. 교육 끝까지 수료하기😁**
 
-![할수있다!!](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20150512_279%2Fhehe2805_1431399865971PSbIQ_PNG%2F6.png&type=a340)
+![할수있다!!](https://mblogthumb-phinf.pstatic.net/MjAxODA1MjhfMTA0/MDAxNTI3NDg3MTczOTY5.C2eXPMwTXPN7mN6rhXpLrbLAu36fyR7JDr3Ym8URGl8g.97dxz-n9zjbzgv8KbhDwrICDNbNierqWueC0aRsfgjIg.JPEG.ehfkdl8989/KakaoTalk_Moim_4UjmLsR1AohJhEmSqqNZkX7uHKU0kp.jpg?type=w800)
 
 
 
