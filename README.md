@@ -29,6 +29,7 @@
 ## ✌ ✔ [7. 일차](https://github.com/choikeunyoung/mystory/tree/master/7%20%EC%9D%BC%EC%B0%A8)
 ## ✍ ✔ [8. 일차](https://github.com/choikeunyoung/mystory/tree/master/8%20%EC%9D%BC%EC%B0%A8)
 ## ✍ ✔ [9. 일차]
+## ✍ ✔ [10. 일차](https://github.com/choikeunyoung/mystory/tree/master/10%20%EC%9D%BC%EC%B0%A8)
 
 # ✍✍✍ 주차별 정리 🙄💅
 
@@ -46,3 +47,5 @@
   - **[과제 실습](https://github.com/choikeunyoung/algorithm/tree/master/%EA%B0%95%EC%9D%98%20%EC%8B%A4%EC%8A%B5)**
 
 # 💢💥💥 오류 해결 & 모음 💥💥💢
+
+  - **[‼‼오류 & 예외 처리 관련 정리](https://github.com/choikeunyoung/mystory/tree/master/10%20%EC%9D%BC%EC%B0%A8)**
