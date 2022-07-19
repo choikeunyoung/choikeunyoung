@@ -30,6 +30,7 @@
 ## ✍ ✔ [8. 일차](https://github.com/choikeunyoung/mystory/tree/master/8%20%EC%9D%BC%EC%B0%A8)
 ## ✍ ✔ [9. 일차]
 ## ✍ ✔ [10. 일차](https://github.com/choikeunyoung/mystory/tree/master/10%20%EC%9D%BC%EC%B0%A8)
+## ✍ ✔ [11. 일차](https://github.com/choikeunyoung/mystory/tree/master/11%20%EC%9D%BC%EC%B0%A8)
 
 # ✍✍✍ 주차별 정리 🙄💅
 
