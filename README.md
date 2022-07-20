@@ -31,6 +31,7 @@
 ## ✍ ✔ [9. 일차]
 ## ✍ ✔ [10. 일차](https://github.com/choikeunyoung/mystory/tree/master/10%20%EC%9D%BC%EC%B0%A8)
 ## ✍ ✔ [11. 일차](https://github.com/choikeunyoung/mystory/tree/master/11%20%EC%9D%BC%EC%B0%A8)
+## ✍ ✔ [12. 일차](https://github.com/choikeunyoung/mystory/tree/master/12%20%EC%9D%BC%EC%B0%A8)
 
 # ✍✍✍ 주차별 정리 🙄💅
 
@@ -44,6 +45,10 @@
   - **[BackJoon](https://www.acmicpc.net/)**
 
   - **[Programmers](https://programmers.co.kr/)**
+
+  - **[SW Expert Acadame](https://swexpertacademy.com/main/main.do)**
+    - [SWEA 풀이](https://github.com/choikeunyoung/algorithm/tree/master/SWEA)
+    
 
   - **[과제 실습](https://github.com/choikeunyoung/algorithm/tree/master/%EA%B0%95%EC%9D%98%20%EC%8B%A4%EC%8A%B5)**
 
