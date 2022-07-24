@@ -38,7 +38,7 @@
 # ✍✍✍ 주차별 정리 🙄💅
 
 ## ✌ ✔ [1 주차](https://github.com/choikeunyoung/reviews/tree/master/1%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
-
+## ✌ ✔ [2 주차](https://github.com/choikeunyoung/reviews/tree/master/2%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
 
 # ✨✨✨ Coding Sites (Algorithm study) ✨✨✨
   - **[CodeUp](https://codeup.kr/)**
