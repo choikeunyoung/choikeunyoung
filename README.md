@@ -34,6 +34,7 @@
 ## ✍ ✔ [12. 일차](https://github.com/choikeunyoung/mystory/tree/master/12%20%EC%9D%BC%EC%B0%A8)
 ## ✍ ✔ [13. 일차](https://github.com/choikeunyoung/mystory/tree/master/13%20%EC%9D%BC%EC%B0%A8)
 ## ✍ ✔ [14. 일차](https://github.com/choikeunyoung/mystory/tree/master/14%20%EC%9D%BC%EC%B0%A8)
+## ✍ ✔ [15. 일차](https://github.com/choikeunyoung/mystory/tree/master/15%20%EC%9D%BC%EC%B0%A8)
 
 # ✍✍✍ 주차별 정리 🙄💅
 
@@ -45,6 +46,7 @@
     - [Python 기초 100제 solution](https://github.com/choikeunyoung/algorithm/tree/master/codeup_100)
   
   - **[BackJoon](https://www.acmicpc.net/)**
+    - [백준 문제풀이](https://github.com/choikeunyoung/algorithm/tree/master/%EB%B0%B1%EC%A4%80)
 
   - **[Programmers](https://programmers.co.kr/)**
 
