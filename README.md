@@ -39,7 +39,7 @@
 ## ✍ ✔ [17. 일차](https://github.com/choikeunyoung/mystory/tree/master/17%20%EC%9D%BC%EC%B0%A8)
 ## ✍ ✔ [18. 일차](https://github.com/choikeunyoung/mystory/tree/master/18%20%EC%9D%BC%EC%B0%A8)
 ## ✍ ✔ [19. 일차](https://github.com/choikeunyoung/mystory/tree/master/19%20%EC%9D%BC%EC%B0%A8)
-
+## 🙄🙄 ✔ [20. 일차](https://github.com/choikeunyoung/mystory/tree/master/20%20%EC%9D%BC%EC%B0%A8)
 
 # ✍✍✍ 주차별 정리 🙄💅
 
