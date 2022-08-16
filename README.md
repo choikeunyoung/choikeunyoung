@@ -46,6 +46,8 @@
 ## 🙄🙄 ✔ [24. 일차](https://github.com/choikeunyoung/mystory/tree/master/24%20%EC%9D%BC%EC%B0%A8)
 ## 🙄🙄 ✔ [25. 일차](https://github.com/choikeunyoung/mystory/tree/master/25%20%EC%9D%BC%EC%B0%A8)
 ## 🙄🙄 ✔ [26. 일차](https://github.com/choikeunyoung/mystory/tree/master/26%20%EC%9D%BC%EC%B0%A8)
+## 🙄🙄 ✔ [27. 일차](https://github.com/choikeunyoung/mystory/tree/master/27%20%EC%9D%BC%EC%B0%A8)
+
 
 
 # ✍✍✍ 주차별 정리 🙄💅
@@ -66,8 +68,11 @@
   - **[SW Expert Acadame](https://swexpertacademy.com/main/main.do)**
     - [SWEA 풀이](https://github.com/choikeunyoung/algorithm/tree/master/SWEA)
     
-
   - **[과제 실습](https://github.com/choikeunyoung/algorithm/tree/master/%EA%B0%95%EC%9D%98%20%EC%8B%A4%EC%8A%B5)**
+
+# ✨✨✨ SQL 실습 ✨✨✨
+
+  - [SQL 실습](https://github.com/choikeunyoung/SQL)
 
 # 💢💥💥 오류 해결 & 모음 💥💥💢
 
