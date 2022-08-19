@@ -49,7 +49,7 @@
 ## 🙄🙄 ✔ [27. 일차](https://github.com/choikeunyoung/mystory/tree/master/27%20%EC%9D%BC%EC%B0%A8)
 ## 🙄🙄 ✔ [28. 일차](https://github.com/choikeunyoung/mystory/tree/master/28%20%EC%9D%BC%EC%B0%A8)
 ## 🙄🙄 ✔ [29. 일차](https://github.com/choikeunyoung/mystory/tree/master/29%20%EC%9D%BC%EC%B0%A8)
-
+## 🙄🙄 ✔ [30. 일차](https://github.com/choikeunyoung/mystory/tree/master/30%20%EC%9D%BC%EC%B0%A8)
 
 
 # ✍✍✍ 주차별 정리 🙄💅
