@@ -52,7 +52,7 @@
 ## 🙄🙄 ✔ [30. 일차](https://github.com/choikeunyoung/mystory/tree/master/30%20%EC%9D%BC%EC%B0%A8)
 ## 🙄🙄 ✔ [31. 일차](https://github.com/choikeunyoung/mystory/tree/master/31%20%EC%9D%BC%EC%B0%A8)
 ## 🙄🙄 ✔ [32. 일차](https://github.com/choikeunyoung/mystory/tree/master/32%20%EC%9D%BC%EC%B0%A8)
-
+## 🙄🙄 ✔ [33. 일차](https://github.com/choikeunyoung/mystory/tree/master/33%20%EC%9D%BC%EC%B0%A8)
 # ✍✍✍ 주차별 정리 🙄💅
 
 ## ✌ ✔ [1 주차](https://github.com/choikeunyoung/reviews/tree/master/1%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
