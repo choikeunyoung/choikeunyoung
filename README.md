@@ -55,6 +55,7 @@
 ## 🙄🙄 ✔ [33. 일차](https://github.com/choikeunyoung/mystory/tree/master/33%20%EC%9D%BC%EC%B0%A8)
 ## 🙄🙄 ✔ [34. 일차](https://github.com/choikeunyoung/mystory/tree/master/34%20%EC%9D%BC%EC%B0%A8)
 ## 🙄🙄 ✔ [35. 일차](https://github.com/choikeunyoung/mystory/tree/master/35%20%EC%9D%BC%EC%B0%A8)
+## 🙄🙄 ✔ [36. 일차](https://github.com/choikeunyoung/mystory/tree/master/36%20%EC%9D%BC%EC%B0%A8)
 # ✍✍✍ 주차별 정리 🙄💅
 
 ## ✌ ✔ [1 주차](https://github.com/choikeunyoung/reviews/tree/master/1%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
@@ -78,6 +79,10 @@
 # ✨✨✨ SQL 실습 ✨✨✨
 
   - [SQL 실습](https://github.com/choikeunyoung/SQL)
+
+# 😂😂 WEB 실습 😂😂
+
+  - [WEB 실습](https://github.com/choikeunyoung/web_prac)
 
 # 💢💥💥 오류 해결 & 모음 💥💥💢
 
