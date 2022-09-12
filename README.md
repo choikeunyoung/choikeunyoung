@@ -20,49 +20,15 @@
 
 # ✍✍✍ 하루 개발 일지 💥💢💥
 
-## ✌ ✔ [1. 일차](https://github.com/choikeunyoung/mystory/tree/master/1%20%EC%9D%BC%EC%B0%A8)
-## ✌ ✔ [2. 일차](https://github.com/choikeunyoung/mystory/tree/master/2%20%EC%9D%BC%EC%B0%A8)
-## ✌ ✔ [3. 일차](https://github.com/choikeunyoung/mystory/tree/master/3%20%EC%9D%BC%EC%B0%A8)
-## ✌ ✔ [4. 일차](https://github.com/choikeunyoung/mystory/blob/master/4%20%EC%9D%BC%EC%B0%A8/reserch.md)
-## ✌ ✔ [5. 일차](https://github.com/choikeunyoung/mystory/tree/master/5%20%EC%9D%BC%EC%B0%A8)
-## ✌ ✔ [6. 일차](https://github.com/choikeunyoung/mystory/tree/master/6%20%EC%9D%BC%EC%B0%A8)
-## ✌ ✔ [7. 일차](https://github.com/choikeunyoung/mystory/tree/master/7%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [8. 일차](https://github.com/choikeunyoung/mystory/tree/master/8%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [9. 일차]
-## ✍ ✔ [10. 일차](https://github.com/choikeunyoung/mystory/tree/master/10%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [11. 일차](https://github.com/choikeunyoung/mystory/tree/master/11%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [12. 일차](https://github.com/choikeunyoung/mystory/tree/master/12%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [13. 일차](https://github.com/choikeunyoung/mystory/tree/master/13%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [14. 일차](https://github.com/choikeunyoung/mystory/tree/master/14%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [15. 일차](https://github.com/choikeunyoung/mystory/tree/master/15%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [16. 일차](https://github.com/choikeunyoung/mystory/tree/master/16%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [17. 일차](https://github.com/choikeunyoung/mystory/tree/master/17%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [18. 일차](https://github.com/choikeunyoung/mystory/tree/master/18%20%EC%9D%BC%EC%B0%A8)
-## ✍ ✔ [19. 일차](https://github.com/choikeunyoung/mystory/tree/master/19%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [20. 일차](https://github.com/choikeunyoung/mystory/tree/master/20%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [21. 일차](https://github.com/choikeunyoung/mystory/tree/master/21%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [22. 일차](https://github.com/choikeunyoung/mystory/tree/master/22%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [23. 일차](https://github.com/choikeunyoung/mystory/tree/master/23%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [24. 일차](https://github.com/choikeunyoung/mystory/tree/master/24%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [25. 일차](https://github.com/choikeunyoung/mystory/tree/master/25%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [26. 일차](https://github.com/choikeunyoung/mystory/tree/master/26%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [27. 일차](https://github.com/choikeunyoung/mystory/tree/master/27%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [28. 일차](https://github.com/choikeunyoung/mystory/tree/master/28%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [29. 일차](https://github.com/choikeunyoung/mystory/tree/master/29%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [30. 일차](https://github.com/choikeunyoung/mystory/tree/master/30%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [31. 일차](https://github.com/choikeunyoung/mystory/tree/master/31%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [32. 일차](https://github.com/choikeunyoung/mystory/tree/master/32%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [33. 일차](https://github.com/choikeunyoung/mystory/tree/master/33%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [34. 일차](https://github.com/choikeunyoung/mystory/tree/master/34%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [35. 일차](https://github.com/choikeunyoung/mystory/tree/master/35%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [36. 일차](https://github.com/choikeunyoung/mystory/tree/master/36%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [37. 일차](https://github.com/choikeunyoung/mystory/tree/master/37%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [38. 일차](https://github.com/choikeunyoung/mystory/tree/master/38%20%EC%9D%BC%EC%B0%A8)
-## 🙄🙄 ✔ [39. 일차](https://github.com/choikeunyoung/mystory/tree/master/39%20%EC%9D%BC%EC%B0%A8)
-# ✍✍✍ 주차별 정리 🙄💅
+  - 💅✔ [Git/GitHub](https://github.com/choikeunyoung/mystory/tree/master/Git)
+  - 💅✔ [Python,Data_Structure](https://github.com/choikeunyoung/mystory/tree/master/Python)
+  - 💅✔ [DataBase](https://github.com/choikeunyoung/mystory/tree/master/DB)
+  - 💅✔ [HTML,CSS](https://github.com/choikeunyoung/mystory/tree/master/Html%2CCss)
 
-## ✌ ✔ [1 주차](https://github.com/choikeunyoung/reviews/tree/master/1%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
-## ✌ ✔ [2 주차](https://github.com/choikeunyoung/reviews/tree/master/2%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
+# ✍✍✍ 단원별 정리 🙄💅
+
+## ✌ ✔ [Git](https://github.com/choikeunyoung/reviews/tree/master/1%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
+## ✌ ✔ [Python](https://github.com/choikeunyoung/reviews/tree/master/2%20%EC%A3%BC%EC%B0%A8%20%EB%B3%B5%EC%8A%B5)
 
 # ✨✨✨ Coding Sites (Algorithm study) ✨✨✨
   - **[CodeUp](https://codeup.kr/)**
