@@ -20,10 +20,10 @@
 
 # ✍✍✍ 하루 개발 일지 💥💢💥
 
-  - 💅✔ [Git/GitHub](https://github.com/choikeunyoung/mystory/tree/master/Git)
-  - 💅✔ [Python,Data_Structure](https://github.com/choikeunyoung/mystory/tree/master/Python)
-  - 💅✔ [DataBase](https://github.com/choikeunyoung/mystory/tree/master/DB)
-  - 💅✔ [HTML,CSS](https://github.com/choikeunyoung/mystory/tree/master/Html%2CCss)
+## 💅✔ [Git/GitHub](https://github.com/choikeunyoung/mystory/tree/master/Git)
+## 💅✔ [Python,Data_Structure](https://github.com/choikeunyoung/mystory/tree/master/Python)
+## 💅✔ [DataBase](https://github.com/choikeunyoung/mystory/tree/master/DB)
+## 💅✔ [HTML,CSS](https://github.com/choikeunyoung/mystory/tree/master/Html%2CCss)
 
 # ✍✍✍ 단원별 정리 🙄💅
 
