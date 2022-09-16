@@ -24,6 +24,8 @@
 ## 💅✔ [Python,Data_Structure](https://github.com/choikeunyoung/mystory/tree/master/Python)
 ## 💅✔ [DataBase](https://github.com/choikeunyoung/mystory/tree/master/DB)
 ## 💅✔ [HTML,CSS](https://github.com/choikeunyoung/mystory/tree/master/Html%2CCss)
+## 💅✔ [JavaScript](https://github.com/choikeunyoung/mystory/tree/master/JavaScript)
+
 
 # ✍✍✍ 단원별 정리 🙄💅
 
