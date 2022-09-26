@@ -25,6 +25,7 @@
 ## 💅✔ [DataBase](https://github.com/choikeunyoung/mystory/tree/master/DB)
 ## 💅✔ [HTML,CSS](https://github.com/choikeunyoung/mystory/tree/master/Html%2CCss)
 ## 💅✔ [JavaScript](https://github.com/choikeunyoung/mystory/tree/master/JavaScript)
+## 💅✔ [Django](https://github.com/choikeunyoung/mystory/tree/master/Django/1%20%EC%9D%BC%EC%B0%A8)
 
 
 # ✍✍✍ 단원별 정리 🙄💅
