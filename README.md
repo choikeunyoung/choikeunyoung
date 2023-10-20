@@ -4,15 +4,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikeunyoung&show_icons=true&theme=radical)
 
-# 2022년 목표
+# 2023년 목표
 
 **1. 귀찮더라도 하루하루 기록하기!!😂😂**
 
 **2. 그 주에 배운내용 주말을 통해 복습**
 
 **3. 교육 끝까지 수료하기😁**
-
-![할수있다!!](https://mblogthumb-phinf.pstatic.net/MjAxODA1MjhfMTA0/MDAxNTI3NDg3MTczOTY5.C2eXPMwTXPN7mN6rhXpLrbLAu36fyR7JDr3Ym8URGl8g.97dxz-n9zjbzgv8KbhDwrICDNbNierqWueC0aRsfgjIg.JPEG.ehfkdl8989/KakaoTalk_Moim_4UjmLsR1AohJhEmSqqNZkX7uHKU0kp.jpg?type=w800)
 
 # ✍✍✍ 하루 개발 일지 💥💢💥
 
