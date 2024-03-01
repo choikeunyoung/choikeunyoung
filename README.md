@@ -4,13 +4,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikeunyoung&show_icons=true&theme=radical)
 
-# 2023년 목표
+# 2024년 목표
 
-**1. 귀찮더라도 하루하루 기록하기!!😂😂**
+**1. 배운 내용 정리 및 블로그 작성**
 
-**2. 그 주에 배운내용 주말을 통해 복습**
+**2. 주마다 CS정리 시작하기**
 
-**3. 교육 끝까지 수료하기😁**
+**3. 취업 준비 및 자소서 작성해서 취업하기!!**
 
 # ✍✍✍ 하루 개발 일지 💥💢💥
 
